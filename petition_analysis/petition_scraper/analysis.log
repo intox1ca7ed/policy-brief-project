@@ -1,0 +1,5 @@
+2025-05-16 16:37:03,388 - INFO - Starting framing consistency analysis on May 16, 2025
+2025-05-16 16:37:03,436 - INFO - Framing analysis saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\framing_analysis.csv
+2025-05-16 16:41:02,197 - INFO - Starting framing consistency analysis with histogram on May 16, 2025
+2025-05-16 16:41:02,241 - INFO - Framing analysis saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\framing_analysis.csv
+2025-05-16 16:41:03,923 - INFO - Histogram saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\similarity_histogram.png
