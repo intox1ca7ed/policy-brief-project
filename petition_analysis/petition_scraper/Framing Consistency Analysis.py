@@ -83,7 +83,7 @@ def save_results(df, output_path=r"C:\Users\82154\Desktop\Digital public spheres
 def print_summary(df):
     try:
         scores = df['similarity_score']
-        print("\nFraming Consistency Analysis Summary (15 Petitions):")
+        print("\nFraming Consistency Analysis Summary (30 Petitions):")
         print(f"Median Similarity Score: {scores.median():.3f}")
         print(f"Mean Similarity Score: {scores.mean():.3f}")
         print(f"Min Similarity Score: {scores.min():.3f}")

@@ -9,3 +9,12 @@
 2025-05-17 20:52:43,876 - INFO - Starting framing consistency analysis with histogram on May 16, 2025
 2025-05-17 20:52:43,947 - INFO - Framing analysis saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\framing_analysis.csv
 2025-05-17 20:52:44,604 - INFO - Histogram saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\similarity_histogram.png
+2025-05-17 21:00:12,666 - INFO - Starting framing consistency analysis with histogram on May 16, 2025
+2025-05-17 21:00:12,757 - INFO - Framing analysis saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\framing_analysis.csv
+2025-05-17 21:00:14,029 - INFO - Histogram saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\similarity_histogram.png
+2025-05-17 21:10:52,353 - INFO - Starting sentiment analysis on May 17, 2025
+2025-05-17 21:10:52,503 - INFO - Sentiment analysis saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\sentiment_analysis.csv
+2025-05-17 21:10:53,070 - INFO - Sentiment distribution plot saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\sentiment_distribution.png
+2025-05-17 22:11:29,417 - INFO - Starting framing consistency analysis with histogram on May 16, 2025
+2025-05-17 22:11:29,479 - INFO - Framing analysis saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\framing_analysis.csv
+2025-05-17 22:11:30,142 - INFO - Histogram saved to C:\Users\82154\Desktop\Digital public spheres\policy-brief-project\petition_analysis\petition_scraper\similarity_histogram.png
